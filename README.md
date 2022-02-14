@@ -225,7 +225,7 @@ array.) The overall process should be:
 Here is an example of what a call to the `writeCards()` function might look like:
 
 ```js
-writeCards(["Charlie", "Samip", "Ali"], "birthday");
+writeCards(["Guadalupe", "Ollie", "Aki"], "birthday");
 ```
 
 If we were to call the function using this function call, it should produce the
